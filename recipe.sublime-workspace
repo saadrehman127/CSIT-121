@@ -1,0 +1,237 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "recipe.html",
+			"settings":
+			{
+				"buffer_size": 1138,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					7,
+					"left_delete",
+					null,
+					"BwAAAEgEAAAAAAAASAQAAAAAAAABAAAACkcEAAAAAAAARwQAAAAAAAABAAAACkYEAAAAAAAARgQAAAAAAAABAAAACkUEAAAAAAAARQQAAAAAAAABAAAACkQEAAAAAAAARAQAAAAAAAABAAAACkMEAAAAAAAAQwQAAAAAAAABAAAACkIEAAAAAAAAQgQAAAAAAAABAAAACg",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAEgEAAAAAAAASQQAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAFMBAAAAAAAAVAEAAAAAAAAAAAAAVAEAAAAAAABVAQAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAFMBAAAAAAAAUwEAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					4,
+					1,
+					"revert",
+					null,
+					"AgAAAAAAAAAAAAAAAAAAAAAAAABGBAAAewoJPHRpdGxlPk15IEZhdm9yaXRlIFJlY2lwZTwvdGl0bGU+Cgo8aDE+Q2hpY2tlbiBUaWtrYSBQaXp6YTwvaDE+Cgo8aDI+U2FhZCdzIHNwZWNpYWx0eSBjaGlja2VuIHRpa2thIHBpenphIFlvdSB3aWxsIGxvdmUgaXQgYXQgaXQncyBmaXJzdCBiaXRlPC9oMj4KCjx1bD4KCTxsaT5QaXp6YSBEb3VnaDwvbGk+Cgk8bGk+TWFyaW5hcmEgU2F1Y2U8L2xpPgoJPGxpPkNoZWRkYXIgQ2hlZXNlPC9saT4KCTxsaT5Nb3p6YXJlbGxhIGNoZWVzZTwvbGk+Cgk8bGk+Q2hpY2tlbiBUaWtrYTwvbGk+Cgk8bGk+T25pb25zPC9saT4KCTxsaT5HcmVlbiBQZXBwZXJzPC9saT4KCTxsaT5KYWxhcGVubzwvbGk+CgkKCjxvbD4KCTxsaT5TdHJlY2ggeW91ciBwaXp6YSBkb3VnaCBvdXQ8L2xpPgoJPGxpPkFkZCBtYXJpbmFyYSBzYXVjZSBvbiB5b3VyIHBpenphPC9saT4KCTxsaT5hZGQgYSAyLjAgb3VuY2VzIG9mIG1venphcmVsbGEgY2hlZXNlPC9saT4KCTxsaT5hZGQgdGhlIGNoaWNrZW4gdGlra2EgdG8geW91ciBwaXp6YTwvbGk+Cgk8bGk+YWRkIGEgbGl0dGUgZ3JlZW4gcGVwcGVycyBhbmQgb25pb25zPC9saT4KCTxsaT5wdXQgamFsYXBlbm8gb24gaGFsZiBvZiB0aGUgcGl6emE8L2xpPgoJPGxpPnB1dCAxLjUgb3VuY2VzIG9mIGNoZWRkYXIgY2hlZXNlIG9uIHRvcDwvbGk+Cgo8cD5UaGlzIGlzIG15IGZhdm9yaXRlIHJlY2lwZSBiZWNhdXNlIEkgbG92ZSBlYXRpbmcgcGl6emEuIE15IGZhdm9pcnRlIHRvcHBwaW5nIG9uIGEgcGl6emEgaXMgY2hpY2tlbiB0aWtrYSBhcyB3ZWxsLiBDaGlja2VuIHRpa2thIGFkZHMgYSBsb3Qgb2YgZmxhdm9yIHRvIHRoZSBwaXp6YSBhbmQgZ2l2ZXMgYSBnb29kIHRhc3RlLiBZb3Ugd2lsbCBlbmpveSB0aGUgcmVjaXBlIEkgY3JlYXRlZCBmb3IgbXkgc3BlY2lhbHR5IHBpenphLiBFdmVyeW9uZSB0aGF0IGhhcyB0cmllZCBteSBwaXp6YSBmYWxscyBpbiBsb3ZlIHdpdGggaXQgYW5kIGFsd2F5cyB3YW50IG1lIHRvIG1ha2UgbW9yZS48L3A+Cgo8YSBocmVmPSJodHRwczovL3RoZWdpbmdlcmVkd2hpc2suY29tL2NoaWNrZW4tdGlra2EtcGl6emEvIj4gQ2hpY2tlbiB0aWtrYSBQaXp6YTwvYT4KfQoAAAAAAAAAAHIEAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Saad/Desktop/CSIT 121/recipe.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "recipe.html",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1138,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1,
+								1
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "recipe.html",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
