@@ -1,0 +1,27 @@
+h1 {color: skyblue;
+    font size: 4em;
+    font family: "arial";
+}
+
+h2 {color: skyblue;
+    font size: 4em;
+    font family: "arial";
+    text-transform: capitalize;
+
+}
+
+p {color: skyblue;
+    font size: 4em;
+    font family: "arial"
+    margin-top: 100px;
+}
+
+body {color: skyblue;
+    font size: 4em;
+    font family: "arial";
+    background-color: black;
+    
+    }
+
+li { font family: "arial";
+    text-transform: capitalize }
