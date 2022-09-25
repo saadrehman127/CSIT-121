@@ -25,3 +25,9 @@ body {color: skyblue;
 
 li { font family: "arial";
     text-transform: capitalize }
+
+ img { background-color: #ffffff;
+        border-style: groove; 
+        box-shadow: 0px 0px 10px 0px black;
+    
+    }

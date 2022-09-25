@@ -1,0 +1,26 @@
+div {background-color: lightskyblue;
+
+}
+
+div tag {display: table-row;}
+
+p {background-color: none;
+color: black;
+font-size: 2em;}
+
+img {transition-delay: inherit;
+display: flex;}
+
+img { background-color: #ffffff;
+padding: 1.25em;
+width: 25%; 
+min-width: 800px; 
+max-width: 960px;
+margin-left: auto;           
+margin-right: auto; 
+box-shadow: 0px 0px 10px 0px black;
+border: 1px solid black;
+transition: 1s;
+transform:scale(1.2);
+z-index:2;
+	}
