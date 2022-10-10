@@ -1,0 +1,50 @@
+header { background-color: whitesmoke; color: skyblue;
+       padding: 100px; 
+       font family: "Verdana"; 
+       text-align: center; 
+       font-display: inherit; 
+       margin-top: 80px; 
+       float: 80px; 
+       border-width: 80px; 
+       font-size: 80px;
+       
+
+}
+
+body {background-color: black;}
+
+
+
+nav { background-color: skyblue; color: black; width: 80px;
+      float: left; border-width: 80px;
+      font-size: 20px; font family: "Verdana"; margin-right: 20px; text-align: center; width: 150px;
+    
+      }
+
+
+main { background-color: black; color: skyblue; width: 250px;
+       float: left; border-width: 200px; padding: 10px;
+       font-size: 20px; font family: "Verdana";
+       margin-left: 165px; text-align: center; height: auto; text-align: justify-all;
+      
+       }
+
+
+footer {background-color: snow; color: skyblue; 
+        padding: 100px;
+        margin-top: 80px; 
+        text-align: center;
+        border-width: 80px;
+        float: 80px;
+        height: 80px;
+        font-family: verdana;
+        font-size: 20px;
+        clear: both;
+        border-image-repeat: 50px;
+        
+
+  }
+
+a:href { color: snow; }
+a:hover { text-decoration: underline;
+       color: skyblue; }
