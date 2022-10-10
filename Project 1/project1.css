@@ -1,0 +1,54 @@
+title {background-color: black;
+color: skyblue; 
+font family:"Verdana";  
+font-display: inherit; 
+font-size: 20px;}
+
+Body {background-color: black;
+}
+
+H1 {background-color: black;
+color: skyblue;
+font family:"Verdana";  
+font-display: inherit; 
+font-size: 20px;}
+
+H2 {background-color: black;
+color: skyblue; 
+font family:"Verdana";  
+font-display: inherit; 
+font-size: 20px;}
+
+P {background-color: black;
+color: skyblue; 
+font family:"Verdana";  
+font-display: inherit; 
+font-size: 20px;}
+
+ul {background-color: black;
+color: skyblue; 
+font family:"Verdana";  
+font-display: inherit; 
+font-size: 20px;}
+
+p {background-image: image1.jpg;}
+
+p style {background-image: image1.jpg;}
+
+ol {background-image: none;color: springgreen; font-display: inherit;}
+
+nav {float:left ;width: 200px; font-family: inherit; text-orientation: !important;text-align: center; clear: both; padding: 10px; }
+
+header {background-color: #CCCCFF;}
+
+nav {text-align: center;}
+
+img {background-image: url(image1.jpg);
+background-position: right;
+background-repeat: no-repeat}
+
+a:href { color: snow; }
+a:hover { text-decoration: underline;
+ color: violet;
+ align-content: center; 
+}
